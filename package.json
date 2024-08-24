@@ -1,0 +1,18 @@
+{
+  "name": "backendlearning",
+  "version": "1.0.0",
+  "description": "this is for learing backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "shivam singh",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "prettier": "3.3.3"
+  }
+}
